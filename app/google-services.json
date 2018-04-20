@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "847012449982",
+    "firebase_url": "https://sports-quiz-app.firebaseio.com",
+    "project_id": "sports-quiz-app",
+    "storage_bucket": "sports-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847012449982:android:8554e88b4652c65e",
+        "android_client_info": {
+          "package_name": "com.example.petr7.Sports_Quiz_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847012449982-66beuuiagan5b5rpada15p4i6atff3f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petr7.Sports_Quiz_App",
+            "certificate_hash": "b8ab77aeeab4a561dc7f3672bca7c77bb1386fd4"
+          }
+        },
+        {
+          "client_id": "847012449982-bd6d9llllo8hhsqnr2q0e5f24ucgdtbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtSpr_w9a7-fXTI36g75wBknKJGWGDic0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847012449982-bd6d9llllo8hhsqnr2q0e5f24ucgdtbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
